@@ -351,6 +351,7 @@ I followed the tutorial online
 * Josh Long
 * Prashant Jamkhande - https://github.com/prashant0493
 * Humphrey Butau - https://github.com/hbutau - 2016-11-7
+* Bryce Van Ross
 * Jose Rodriguez -https://github.com/jlrods - 15/11/2016
 * Michael Kortstiege - https://github.com/nodexo - Nov 19, 2016
 * Steven Lee - https://github.com/stevenlee96 - 2016-11-20
